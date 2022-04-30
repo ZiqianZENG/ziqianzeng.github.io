@@ -4,6 +4,10 @@ I am Ziqian Zeng, I am now an assistant professor at Shien-Ming Wu School of Int
 My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. \
 View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
 
+## Education
+Ph.D. Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2016 - 2021, Supervisor: [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
+
 ## Publications
 [1] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
 **Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf]()] [[code](https://github.com/HKUST-KnowComp/WDDC)]
@@ -27,9 +31,6 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
 
-## Education
-- Ph.D. Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2016 - 2021, Supervisor: [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
-- B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Academic Service
 
