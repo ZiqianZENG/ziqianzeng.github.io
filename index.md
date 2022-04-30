@@ -1,7 +1,8 @@
 ## About me
 
 I am Ziqian Zeng, I am now an assistant professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
-I obtained my Ph.D. degree at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2021, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I obtained my B.Eng. degree at School of Computer Science and Engineering, South China University of Technology in 2016. \
+I obtained my Ph.D. degree at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2021, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). \
+I obtained my B.Eng. degree at School of Computer Science and Engineering, South China University of Technology in 2016. \
 My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. 
 
 
