@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/ZiqianZENG/ziqianzeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am Ziqian Zeng, I am now an assistant professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. 
+I obtained my Ph.D. degree at Department of Computer Science and Engineering, the Hong Kong University of Science and Technology in 2021, supervised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I obtained my B.Eng. degree at School of Computer Science and Engineering, South China University of Technology in 2016. My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Publications
+[1] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
+**Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf]()] [[code](https://github.com/HKUST-KnowComp/WDDC)]
 
-# Header 1
-## Header 2
-### Header 3
+[2] Debiasing Career Recommendations with Neural Fair Collaborative Filtering \
+Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds. WWW, 2021. [[pdf](https://dl.acm.org/doi/10.1145/3442381.3449904)] [[code](https://github.com/rashid-islam/nfcf)]
 
-- Bulleted
-- List
+[3] Fair Representation Learning for Heterogeneous Information Networks \
+**Ziqian Zeng**, Rashidul Islam, Kamrun Naher Keya, James Foulds, Yangqiu Song, and Shimei Pan. ICWSM, 2021.  [[pdf](https://arxiv.org/abs/2104.08769)] [[code](https://github.com/ZiqianZENG/Fair_HIN)]
 
-1. Numbered
-2. List
+[4] Variational Weakly Supervised Sentiment Analysis with Posterior Regularization \
+**Ziqian Zeng**, and Yangqiu Song. EACL, 2021. [[pdf](https://arxiv.org/abs/2104.08779)] [[code](https://github.com/ZiqianZENG/VWS-PR)]
 
-**Bold** and _Italic_ and `Code` text
+[5] A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification \
+**Ziqian Zeng**, Wenxuan Zhou, Xin Liu, and Yangqiu Song. NAACL, 2021. [[pdf](https://aclanthology.org/N19-1036/)] [[code](https://github.com/ZiqianZENG/VWS-DMSC)]
 
-[Link](url) and ![Image](src)
-```
+[6] Biased RandomWalk based Social Regularization for Word Embeddings \
+**Ziqian Zeng***, Xin Liu*, and Yangqiu Song. IJCAI, 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0634.pdf)] [[code](https://github.com/HKUST-KnowComp/SRBRW)]
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[7] Socialized Word Embeddings \
+**Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZiqianZENG/ziqianzeng.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Academic Service
 
-### Support or Contact
+- Conference Reviewer: AAAI'21, IJCAI'21.
+- Conference External Reviewer: ACL'21.
+- Conference Volunteer: IJCAI'18.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Teaching Experience
+
+- Introduction to Python, in SCUT, Spring 2022.
+- Natural Language Processing, in SCUT, Spring 2022.
