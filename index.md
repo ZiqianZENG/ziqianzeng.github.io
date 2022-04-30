@@ -21,7 +21,7 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 **Ziqian Zeng**, Wenxuan Zhou, Xin Liu, and Yangqiu Song. NAACL, 2021. [[pdf](https://aclanthology.org/N19-1036/)] [[code](https://github.com/ZiqianZENG/VWS-DMSC)]
 
 [6] Biased RandomWalk based Social Regularization for Word Embeddings \
-**Ziqian Zeng***, Xin Liu*, and Yangqiu Song. IJCAI, 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0634.pdf)] [[code](https://github.com/HKUST-KnowComp/SRBRW)]
+**Ziqian Zeng**\*, Xin Liu\*, and Yangqiu Song. IJCAI, 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0634.pdf)] [[code](https://github.com/HKUST-KnowComp/SRBRW)]
 
 [7] Socialized Word Embeddings \
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
