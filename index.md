@@ -5,7 +5,8 @@ My research area is natural language processing. I am interested in weakly super
 View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
 
 ## Education
-Ph.D. Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2016 - 2021, Supervisor: [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
+Ph.D. Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2016 - 2021, Supervisor: [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). \
+
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Publications
