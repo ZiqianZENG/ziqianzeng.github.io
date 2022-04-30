@@ -1,8 +1,8 @@
 ## About me
 
 I am Ziqian Zeng, I am now an assistant professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
-My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. 
-
+My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. \
+View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
 
 ## Publications
 [1] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
