@@ -11,7 +11,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 ## Publications
 [1] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
-**Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf]()] [[code](https://github.com/HKUST-KnowComp/WDDC)]
+**Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf](https://arxiv.org/abs/2205.06604)] [[code](https://github.com/HKUST-KnowComp/WDDC)]
 
 [2] Debiasing Career Recommendations with Neural Fair Collaborative Filtering \
 Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds. WWW, 2021. [[pdf](https://dl.acm.org/doi/10.1145/3442381.3449904)] [[code](https://github.com/rashid-islam/nfcf)]
