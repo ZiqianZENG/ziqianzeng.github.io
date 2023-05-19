@@ -10,25 +10,31 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Publications
-[1] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
+[9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
+Hongliang Dai, and **Ziqian Zeng**. ACL, 2023.
+
+[8] GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task \
+Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, **Ziqian Zeng**. CVPR, 2023. [[pdf](https://openreview.net/attachment?id=a8wihaFAuH&name=camera-ready_PDF)]
+
+[7] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
 **Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf](https://arxiv.org/abs/2205.06604)] [[code](https://github.com/HKUST-KnowComp/WDDC)]
 
-[2] Debiasing Career Recommendations with Neural Fair Collaborative Filtering \
+[6] Debiasing Career Recommendations with Neural Fair Collaborative Filtering \
 Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds. WWW, 2021. [[pdf](https://dl.acm.org/doi/10.1145/3442381.3449904)] [[code](https://github.com/rashid-islam/nfcf)]
 
-[3] Fair Representation Learning for Heterogeneous Information Networks \
+[5] Fair Representation Learning for Heterogeneous Information Networks \
 **Ziqian Zeng**, Rashidul Islam, Kamrun Naher Keya, James Foulds, Yangqiu Song, and Shimei Pan. ICWSM, 2021.  [[pdf](https://arxiv.org/abs/2104.08769)] [[code](https://github.com/ZiqianZENG/Fair_HIN)]
 
 [4] Variational Weakly Supervised Sentiment Analysis with Posterior Regularization \
 **Ziqian Zeng**, and Yangqiu Song. EACL, 2021. [[pdf](https://arxiv.org/abs/2104.08779)] [[code](https://github.com/ZiqianZENG/VWS-PR)]
 
-[5] A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification \
+[3] A Variational Approach to Weakly Supervised Document-Level Multi-Aspect Sentiment Classification \
 **Ziqian Zeng**, Wenxuan Zhou, Xin Liu, and Yangqiu Song. NAACL, 2019. [[pdf](https://aclanthology.org/N19-1036/)] [[code](https://github.com/ZiqianZENG/VWS-DMSC)]
 
-[6] Biased RandomWalk based Social Regularization for Word Embeddings \
+[2] Biased RandomWalk based Social Regularization for Word Embeddings \
 **Ziqian Zeng**\*, Xin Liu\*, and Yangqiu Song. IJCAI, 2018. [[pdf](https://www.ijcai.org/proceedings/2018/0634.pdf)] [[code](https://github.com/HKUST-KnowComp/SRBRW)]
 
-[7] Socialized Word Embeddings \
+[1] Socialized Word Embeddings \
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
 \* Equal Contribution
@@ -36,8 +42,7 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 
 ## Academic Service
 
-- Conference Reviewer: AAAI'21, IJCAI'21.
-- Conference External Reviewer: ACL'21.
+- Conference Reviewer: AAAI'21, IJCAI'21, ACL'23
 - Conference Volunteer: IJCAI'18.
 
 ## Teaching Experience
