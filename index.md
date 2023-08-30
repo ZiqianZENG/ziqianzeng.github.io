@@ -1,6 +1,6 @@
 ## About me
 
-I am Ziqian Zeng, I am now an assistant professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
+I am Ziqian Zeng, I am now an associate professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
 My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. \
 View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
 
@@ -11,7 +11,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 ## Publications
 [9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
-Hongliang Dai, and **Ziqian Zeng**. ACL, 2023.
+Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [pdf](https://aclanthology.org/2023.acl-long.126.pdf)
 
 [8] GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task \
 Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, **Ziqian Zeng**. CVPR, 2023. [[pdf](https://openreview.net/attachment?id=a8wihaFAuH&name=camera-ready_PDF)]
