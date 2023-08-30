@@ -42,7 +42,7 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 
 ## Academic Service
 
-- Conference Reviewer: AAAI'21, IJCAI'21, ACL'23
+- Conference Reviewer: AAAI'21,23,24, IJCAI'21, ACL'22,23
 - Conference Volunteer: IJCAI'18.
 
 ## Teaching Experience
