@@ -10,6 +10,9 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Publications
+[10] Adaptive Policy with Wait-$k$ Model for Simultaneous Translation \
+Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**, and Zhongqiang Huang. EMNLP, 2023.
+
 [9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
 Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)]
 
