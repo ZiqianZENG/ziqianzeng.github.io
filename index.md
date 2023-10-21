@@ -17,7 +17,7 @@ Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**, and Zhongqia
 Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)] [[code](https://github.com/hldai/fivefine)]
 
 [8] GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task \
-Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, **Ziqian Zeng**. CVPR, 2023. [[pdf](https://openreview.net/attachment?id=a8wihaFAuH&name=camera-ready_PDF)]
+Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, **Ziqian Zeng**. CVPR, 2023. [[pdf](https://openreview.net/attachment?id=a8wihaFAuH&name=camera-ready_PDF)] [[code](https://github.com/ZHUANGHP/Analytic-continual-learning)]
 
 [7] Weakly Supervised Text Classification using Supervision Signals from a Language Model \
 **Ziqian Zeng**, Weimin Ni, Tianqing Fang, Xiang Li, Xinran Zhao, and Yangqiu Song. NAACL, 2022. [[pdf](https://arxiv.org/abs/2205.06604)] [[code](https://github.com/HKUST-KnowComp/WDDC)]
