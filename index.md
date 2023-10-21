@@ -14,7 +14,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**, and Zhongqiang Huang. EMNLP, 2023.
 
 [9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
-Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)]
+Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)] [[code](https://github.com/hldai/fivefine)]
 
 [8] GKEAL: Gaussian Kernel Embedded Analytic Learning for Few-shot Class Incremental Task \
 Huiping Zhuang, Zhenyu Weng, Run He, Zhiping Lin, **Ziqian Zeng**. CVPR, 2023. [[pdf](https://openreview.net/attachment?id=a8wihaFAuH&name=camera-ready_PDF)]
