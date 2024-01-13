@@ -10,8 +10,14 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Publications
+[12] ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference \
+Ziqian Zeng, Yihuai Hong, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. 
+
+[11] DS-AL: A Dual Stream Analytic Learning for Examplar-Free Class-Incremental Learning \
+Huiping Zhuang, Run He, Kai Tong, Ziqian Zeng, Zhiping Lin, Cen Chen. AAAI 2024.
+
 [10] Adaptive Policy with Wait-k Model for Simultaneous Translation \
-Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**, and Zhongqiang Huang. EMNLP, 2023.
+Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**\#, and Zhongqiang Huang\#. EMNLP, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.293.pdf)]
 
 [9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
 Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)] [[code](https://github.com/hldai/fivefine)]
@@ -41,7 +47,7 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
 \* Equal Contribution
-
+\# Correspondence Author
 
 ## Academic Service
 
