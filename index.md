@@ -11,7 +11,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 ## Publications
 [12] ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference \
-**Ziqian Zeng**, Yihuai Hong, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. 
+**Ziqian Zeng**\*, Yihuai Hong\*, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. 
 
 [11] DS-AL: A Dual Stream Analytic Learning for Examplar-Free Class-Incremental Learning \
 Huiping Zhuang, Run He, Kai Tong, **Ziqian Zeng**, Zhiping Lin, Cen Chen. AAAI 2024.
