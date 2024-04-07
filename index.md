@@ -11,7 +11,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 ## Publications
 [14] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction \
-Jianwei Wang, Tianyin Wang, ***Ziqian Zeng**\#. COLING 2024. 
+Jianwei Wang, Tianyin Wang, **Ziqian Zeng**\#. COLING 2024. 
 
 [13] Zero-shot Event Detection using a Textual Entailment Model as an
 Enhanced Annotator \
