@@ -10,6 +10,13 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 ## Publications
+[14] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction \
+Jianwei Wang, Tianyin Wang, ***Ziqian Zeng**\#. COLING 2024. 
+
+[13] Zero-shot Event Detection using a Textual Entailment Model as an
+Enhanced Annotator \
+**Ziqian Zeng**, Runyu Wu, Yuxiang Xiao, Xiaoda Zhong, Hanlin Wang, Zhengdong Lu, Huiping Zhuang. COLING 2024. (short)
+
 [12] ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference \
 **Ziqian Zeng**\*, Yihuai Hong\*, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. 
 
