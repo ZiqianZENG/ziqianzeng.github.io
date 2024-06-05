@@ -14,6 +14,7 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 [4] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
 Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
 
+[3] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
 **Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
 
 [2] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
