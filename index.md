@@ -1,7 +1,7 @@
 ## About me
 
 I am Ziqian Zeng, I am now an associate professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
-My research area is natural language processing. I am interested in weakly supervised learning methods in NLP. \
+My research area is natural language processing. I am interested in LLM Efficient Inference, LLM Privacy Protection, and LLM Safety. \
 View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
 
 ## Education
@@ -9,19 +9,32 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
+
+## Preprint
+[4] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
+Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
+
+**Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
+
+[2] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
+**Ziqian Zeng**\*\#, Jianwei Wang\*, ZhengdongLu, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2406.01394)]
+
+[1] Analytic Federated Learning \
+Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. [[pdf](https://arxiv.org/abs/2405.16240)]
+
 ## Publications
 [14] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction \
-Jianwei Wang, Tianyin Wang, **Ziqian Zeng**\#. COLING 2024. 
+Jianwei Wang, Tianyin Wang, **Ziqian Zeng**\#. COLING 2024. [[pdf](https://aclanthology.org/2024.lrec-main.1088.pdf)] [[code](https://github.com/ZeroNLP/Clean_LaVe)]
 
 [13] Zero-shot Event Detection using a Textual Entailment Model as an
 Enhanced Annotator \
-**Ziqian Zeng**, Runyu Wu, Yuxiang Xiao, Xiaoda Zhong, Hanlin Wang, Zhengdong Lu, Huiping Zhuang. COLING 2024. (short)
+**Ziqian Zeng**, Runyu Wu, Yuxiang Xiao, Xiaoda Zhong, Hanlin Wang, Zhengdong Lu, Huiping Zhuang. COLING 2024. (short) [[pdf](https://aclanthology.org/2024.lrec-main.1552/)] [[code](https://github.com/ZeroNLP/ZS_TE)]
 
 [12] ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference \
-**Ziqian Zeng**\*, Yihuai Hong\*, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. 
+**Ziqian Zeng**\*, Yihuai Hong\*, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. [[pdf](https://arxiv.org/abs/2312.11882)][[code](https://github.com/ZeroNLP/ConsistentEE)]
 
 [11] DS-AL: A Dual Stream Analytic Learning for Examplar-Free Class-Incremental Learning \
-Huiping Zhuang, Run He, Kai Tong, **Ziqian Zeng**, Zhiping Lin, Cen Chen. AAAI 2024.
+Huiping Zhuang, Run He, Kai Tong, **Ziqian Zeng**, Zhiping Lin, Cen Chen. AAAI 2024. [[pdf](https://arxiv.org/abs/2403.17503)]
 
 [10] Adaptive Policy with Wait-k Model for Simultaneous Translation \
 Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**\#, and Zhongqiang Huang\#. EMNLP, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.293.pdf)]
