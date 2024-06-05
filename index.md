@@ -11,25 +11,35 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 
 ## Preprint
-[4] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
+[6] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
 Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
 
-[3] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
+[5] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
 **Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
 
-[2] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
+[4] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
 **Ziqian Zeng**\*\#, Jianwei Wang\*, ZhengdongLu, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2406.01394)]
 
-[1] Analytic Federated Learning \
+[3] Analytic Federated Learning \
 Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. [[pdf](https://arxiv.org/abs/2405.16240)]
 
-## Publications
+[2] AOCIL: Exemplar-free Analytic Online Class Incremental Learning with Low Time and Resource Consumption \
+Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang, Lap-Pui Chau. [[pdf](https://arxiv.org/abs/2403.15751)]
+
+[1] G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning \
+Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zeng**, Cen Chen. [[pdf](https://arxiv.org/abs/2403.15706)]
+
+## Conference
+[15] 
+Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales \
+Wenyu Li\#, Yinuo Zhu, Xin Lin, Ming Li, Ziyue Jiang, **Ziqian Zeng**\#. WWW 2024 (short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3589335.3651584)] [[code](https://github.com/w-y-li/MAIMS)]
+
 [14] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction \
 Jianwei Wang, Tianyin Wang, **Ziqian Zeng**\#. COLING 2024. [[pdf](https://aclanthology.org/2024.lrec-main.1088.pdf)] [[code](https://github.com/ZeroNLP/Clean_LaVe)]
 
 [13] Zero-shot Event Detection using a Textual Entailment Model as an
 Enhanced Annotator \
-**Ziqian Zeng**, Runyu Wu, Yuxiang Xiao, Xiaoda Zhong, Hanlin Wang, Zhengdong Lu, Huiping Zhuang. COLING 2024. (short) [[pdf](https://aclanthology.org/2024.lrec-main.1552/)] [[code](https://github.com/ZeroNLP/ZS_TE)]
+**Ziqian Zeng**, Runyu Wu, Yuxiang Xiao, Xiaoda Zhong, Hanlin Wang, Zhengdong Lu, Huiping Zhuang. COLING 2024 (short). [[pdf](https://aclanthology.org/2024.lrec-main.1552/)] [[code](https://github.com/ZeroNLP/ZS_TE)]
 
 [12] ConsistentEE: A Consistent and Hardness-Guided Early Exiting Method for Accelerating Language Models Inference \
 **Ziqian Zeng**\*, Yihuai Hong\*, Hongliang Dai, Huiping Zhuang and Cen Chen. AAAI 2024. [[pdf](https://arxiv.org/abs/2312.11882)][[code](https://github.com/ZeroNLP/ConsistentEE)]
@@ -67,12 +77,16 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 [1] Socialized Word Embeddings \
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
+## Journal
+[1] Efficient Point Cloud Video Recognition via Spatio-Temporal Pruning for MEC Based Consumer Applications \
+Cen Chen, Songyu Xie, Jing Liu, Zhongyao Cheng, **Ziqian Zeng**, Huiping Zhuang, IEEE Transactions on Consumer Electronics, 2024. [[pdf](https://ieeexplore.ieee.org/abstract/document/10433077)]
+
 \* Equal Contribution \
 \# Correspondence Author
 
 ## Academic Service
 
-- Conference Reviewer: AAAI'21,23,24, IJCAI'21, ACL'22,23
+- Conference Reviewer: AAAI'21,23,24, IJCAI'21, ACL'22,23,24
 - Conference Volunteer: IJCAI'18.
 
 ## Teaching Experience
