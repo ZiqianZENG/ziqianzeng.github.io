@@ -2,7 +2,7 @@
 
 I am Ziqian Zeng, I am now an associate professor at Shien-Ming Wu School of Intelligent Engineering, South China University of Technology. \
 My research area is natural language processing. I am interested in LLM Efficient Inference, LLM Privacy Protection, and LLM Safety. \
-View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en).
+View my [Google Scholar](https://scholar.google.com/citations?user=fuOr3nAAAAAJ&hl=en). View [the github](https://github.com/ZeroNLP) of my research group. 
 
 ## Education
 Ph.D. Department of Computer Science and Engineering, the Hong Kong University of Science and Technology, 2016 - 2021, Supervisor: [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). 
