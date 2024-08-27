@@ -12,23 +12,29 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 
 ## Preprint
-[6] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
+[8] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
 Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
 
-[5] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
+[7] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
 **Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
 
-[4] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
+[6] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
 **Ziqian Zeng**\*\#, Jianwei Wang\*, ZhengdongLu, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2406.01394)]
 
-[3] Analytic Federated Learning \
+[5] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
+Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, Ziqian Zeng, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
+
+[4] Analytic Federated Learning \
 Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. [[pdf](https://arxiv.org/abs/2405.16240)]
 
-[2] AOCIL: Exemplar-free Analytic Online Class Incremental Learning with Low Time and Resource Consumption \
+[3] AOCIL: Exemplar-free Analytic Online Class Incremental Learning with Low Time and Resource Consumption \
 Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang, Lap-Pui Chau. [[pdf](https://arxiv.org/abs/2403.15751)]
 
-[1] G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning \
+[2] G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning \
 Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zeng**, Cen Chen. [[pdf](https://arxiv.org/abs/2403.15706)]
+
+[1] GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models \
+Tao Zhang, Ziqian Zeng, Yuxiang Xiao, Huiping Zhuang, Cen Chen, James Foulds, Shimei Pan. [[pdf]](https://arxiv.org/abs/2406.13925) [[data](https://github.com/ZeroNLP/GenderAlign)]
 
 ## Conference
 [15] 
