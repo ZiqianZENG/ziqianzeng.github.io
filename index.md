@@ -33,7 +33,7 @@ Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang
 [3] G-ACIL: Analytic Learning for Exemplar-Free Generalized Class Incremental Learning \
 Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zeng**, Cen Chen. [[pdf](https://arxiv.org/abs/2403.15706)]
 
-[2] AIR: Analytic Imbalance Rectifier for Continual Learning \ 
+[2] AIR: Analytic Imbalance Rectifier for Continual Learning \
 Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]](https://arxiv.org/pdf/2408.10349)
 
 [1] GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models \
