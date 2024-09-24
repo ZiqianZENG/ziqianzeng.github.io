@@ -41,8 +41,13 @@ Tao Zhang, **Ziqian Zeng**\#, Yuxiang Xiao, Huiping Zhuang, Cen Chen, James Foul
 
 
 ## Conference
-[15] 
-Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales \
+[17] PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation \
+Libo Zhao, Jing Li, **Ziqian Zeng**. EMNLP 2024.
+
+[16] Dissecting Fine-Tuning Unlearning in Large Language Models \
+Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). 
+
+[15] Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales \
 Wenyu Li\#, Yinuo Zhu, Xin Lin, Ming Li, Ziyue Jiang, **Ziqian Zeng**\#. WWW 2024 (short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3589335.3651584)] [[code](https://github.com/w-y-li/MAIMS)]
 
 [14] On the use of Silver Standard Data for Zero-shot Classification Tasks in Information Extraction \
