@@ -42,7 +42,7 @@ Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang
 Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zeng**, Cen Chen. NeurIPS 2024. [[pdf](https://arxiv.org/abs/2403.15706)]
 
 [17] PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation \
-Libo Zhao, Jing Li, **Ziqian Zeng**. EMNLP 2024.
+Libo Zhao, Jing Li#, **Ziqian Zeng**#. EMNLP 2024.
 
 [16] Dissecting Fine-Tuning Unlearning in Large Language Models \
 Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). 
