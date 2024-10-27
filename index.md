@@ -42,7 +42,7 @@ Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang
 Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zeng**, Cen Chen. NeurIPS 2024. [[pdf](https://arxiv.org/abs/2403.15706)]
 
 [17] PsFuture: A Pseudo-Future-based Zero-Shot Adaptive Policy for Simultaneous Machine Translation \
-Libo Zhao, Jing Li#, **Ziqian Zeng**#. EMNLP 2024.
+Libo Zhao, Jing Li#, **Ziqian Zeng**#. EMNLP 2024. [[pdf](https://arxiv.org/abs/2410.04075)] [[code](https://github.com/lbzhao970/PsFuture)]
 
 [16] Dissecting Fine-Tuning Unlearning in Large Language Models \
 Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). 
@@ -64,7 +64,8 @@ Enhanced Annotator \
 Huiping Zhuang, Run He, Kai Tong, **Ziqian Zeng**, Zhiping Lin, Cen Chen. AAAI 2024. [[pdf](https://arxiv.org/abs/2403.17503)]
 
 [10] Adaptive Policy with Wait-k Model for Simultaneous Translation \
-Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**\#, and Zhongqiang Huang\#. EMNLP, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.293.pdf)]
+Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**\#, and Zhongqiang Huang\#. EMNLP, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.293.pdf)] [[code](https://github.com/
+lbzhao970/DaP- SiMT)]
 
 [9] From Ultra-Fine to Fine: Fine-tuning Ultra-Fine Entity Typing Models to Fine-grained \
 Hongliang Dai, and **Ziqian Zeng**. ACL, 2023. [[pdf](https://aclanthology.org/2023.acl-long.126.pdf)] [[code](https://github.com/hldai/fivefine)]
