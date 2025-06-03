@@ -12,29 +12,44 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 
 ## Preprint
-[7] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
+[4] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
 Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
 
-[6] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
+[3] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
 **Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
 
-[5] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
-**Ziqian Zeng**\*\#, Jianwei Wang\*, ZhengdongLu, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2406.01394)]
-
-[4] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
+[2] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
 Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, **Ziqian Zeng**, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
 
-[3] Analytic Federated Learning \
-Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. [[pdf](https://arxiv.org/abs/2405.16240)]
-
-[2] AIR: Analytic Imbalance Rectifier for Continual Learning \
+[1] AIR: Analytic Imbalance Rectifier for Continual Learning \
 Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]](https://arxiv.org/pdf/2408.10349)
 
-[1] GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models \
-Tao Zhang, **Ziqian Zeng**\#, Yuxiang Xiao, Huiping Zhuang, Cen Chen, James Foulds, Shimei Pan. [[pdf]](https://arxiv.org/abs/2406.13925) [[data](https://github.com/ZeroNLP/GenderAlign)]
 
 
 ## Conference
+[26] SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings \
+Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. ACL 2025.[[pdf]](https://arxiv.org/abs/2502.12562)] [[code](https://github.com/ZeroNLP/SEA)]
+
+[25] SDD: Self-Degraded Defense against Malicious Fine-tuning \
+ZiXuan Chen, Weikai Lu, Xin Lin, **Ziqian Zeng**\#. ACL 2025.[[pdf]()] [[code](https://github.com/ZeroNLP/SDD)]
+
+[24] GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models \
+Tao Zhang, **Ziqian Zeng**\#, Yuxiang Xiao, Huiping Zhuang, Cen Chen, James Foulds, Shimei Pan. ACL 2025.[[pdf](https://arxiv.org/abs/2406.13925)] [[data](https://github.com/ZeroNLP/GenderAlign)]
+
+[23] PrivacyRestore: Privacy-Preserving Inference in Large Language Models via Privacy Removal and Restoration \
+**Ziqian Zeng**\*, Jianwei Wang\*, Junyao Yang\*, ZhengdongLu, Haoran Li, Huiping Zhuang\#, Cen Chen\#. ACL 2025. [[pdf](https://arxiv.org/abs/2406.01394)] [[code](https://github.com/ZeroNLP/PrivacyRestore)]
+
+[22] Semantic Shift Estimation via Dual-Projection and Classifier Reconstruction for Exemplar-Free Class-Incremental Learning \
+Run He, Di Fang, Yicheng Xu, Yawen Cui, Ming Li, Cen Chen, **Ziqian Zeng**, Huiping Zhuang. ICML 2025. 
+[[pdf](https://arxiv.org/abs/2503.05423)]
+
+[21] L3A: Label-Augmented Analytic Adaptation for Multi-Label Class Incremental Learning \
+Xiang Zhang, Run He, Chen Jiao, Di Fang, Ming Li, **Ziqian Zeng**, Cen Chen, Huiping Zhuang. ICML 2025. 
+[[pdf](https://icml.cc/virtual/2025/poster/44755)]
+
+[20] Analytic Federated Learning \
+Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. CVPR 2025. [[pdf](https://arxiv.org/abs/2405.16240)]
+
 [19] F-OAL: Foward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning \
 Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang, Lap-Pui Chau. NeurIPS 2024. [[pdf](https://arxiv.org/abs/2403.15751)]
 
