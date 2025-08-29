@@ -20,7 +20,7 @@ Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zh
 Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, **Ziqian Zeng**, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
 
 [1] AIR: Analytic Imbalance Rectifier for Continual Learning \
-Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]](https://arxiv.org/pdf/2408.10349)
+Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf](https://arxiv.org/pdf/2408.10349)]
 
 
 
