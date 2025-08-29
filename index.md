@@ -27,6 +27,8 @@ Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]
 
 ## Conference
 
+**2025**
+
 [29] Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning \
 Wenbin Hu, Haoran Li, Huihao Jing, Qi Hu, **Ziqian Zeng**, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. EMNLP 2025. [[pdf](https://arxiv.org/abs/2505.14585)]
 
@@ -59,6 +61,10 @@ Xiang Zhang, Run He, Chen Jiao, Di Fang, Ming Li, **Ziqian Zeng**, Cen Chen, Hui
 [20] Analytic Federated Learning \
 Huiping Zhuang, Run He, Kai Tong, Di Fang, Han Sun, Haoran Li, Tianyi Chen, **Ziqian Zeng**. CVPR 2025. [[pdf](https://arxiv.org/abs/2405.16240)]
 
+
+**2024**
+
+
 [19] F-OAL: Foward-only Online Analytic Learning with Fast Training and Low Memory Footprint in Class Incremental Learning \
 Huiping Zhuang, Yuchen Liu, Run He, Kai Tong, **Ziqian Zeng**, Cen Chen, Yi Wang, Lap-Pui Chau. NeurIPS 2024. [[pdf](https://arxiv.org/abs/2403.15751)]
 
@@ -86,6 +92,8 @@ Enhanced Annotator \
 
 [11] DS-AL: A Dual Stream Analytic Learning for Examplar-Free Class-Incremental Learning \
 Huiping Zhuang, Run He, Kai Tong, **Ziqian Zeng**, Zhiping Lin, Cen Chen. AAAI 2024. [[pdf](https://arxiv.org/abs/2403.17503)]
+
+**Before 2023**
 
 [10] Adaptive Policy with Wait-k Model for Simultaneous Translation \
 Libo Zhao, Kai Fan, Wei Luo, Jing Wu, Shushu Wang, **Ziqian Zeng**\#, and Zhongqiang Huang\#. EMNLP, 2023. [[pdf](https://aclanthology.org/2023.emnlp-main.293.pdf)] [[code](https://github.com/
