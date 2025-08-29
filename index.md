@@ -12,11 +12,9 @@ B.Eng. School of Computer Science and Engineering, South China University of Tec
 
 
 ## Preprint
-[4] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
+[3] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
 Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
 
-[3] Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens \
-**Ziqian Zeng**\*, Jiahong Yu\*, Qianshi Pang, Zihao Wang, Huiping Zhuang, Shao Hongen, Zou Xiaofeng. [[pdf](https://arxiv.org/abs/2402.15758)]
 
 [2] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
 Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, **Ziqian Zeng**, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
@@ -27,11 +25,21 @@ Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]
 
 
 ## Conference
+
+[29] Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning \
+Wenbin Hu, Haoran Li, Huihao Jing, Qi Hu, **Ziqian Zeng**, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. EMNLP 2025. [[pdf]https://arxiv.org/abs/2505.14585]
+
+[28] RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis \
+Jianwei Wang, Chengming Shi, Junyao Yang, Haoran Li, Qianli Ma, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. EMNLP 2025. [[pdf]https://arxiv.org/abs/2502.18517]
+
+[27] DrFrattn: Directly Learn Adaptive Policy from Attention for Simultaneous Machine Translation \
+Libo Zhao, Jing Li\#, **Ziqian Zeng**\#. EMNLP 2025. 
+
 [26] SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings \
 Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. ACL 2025.[[pdf]](https://arxiv.org/abs/2502.12562)] [[code](https://github.com/ZeroNLP/SEA)]
 
 [25] SDD: Self-Degraded Defense against Malicious Fine-tuning \
-ZiXuan Chen, Weikai Lu, Xin Lin, **Ziqian Zeng**\#. ACL 2025.[[pdf]()] [[code](https://github.com/ZeroNLP/SDD)]
+ZiXuan Chen, Weikai Lu, Xin Lin, **Ziqian Zeng**\#. ACL 2025.[[pdf](https://aclanthology.org/2025.acl-long.1412/)] [[code](https://github.com/ZeroNLP/SDD)]
 
 [24] GenderAlign: An Alignment Dataset for Mitigating Gender Bias in Large Language Models \
 Tao Zhang, **Ziqian Zeng**\#, Yuxiang Xiao, Huiping Zhuang, Cen Chen, James Foulds, Shimei Pan. ACL 2025.[[pdf](https://arxiv.org/abs/2406.13925)] [[data](https://github.com/ZeroNLP/GenderAlign)]
@@ -60,7 +68,7 @@ Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zen
 Libo Zhao, Jing Li#, **Ziqian Zeng**#. EMNLP 2024. [[pdf](https://arxiv.org/abs/2410.04075)] [[code](https://github.com/lbzhao970/PsFuture)]
 
 [16] Dissecting Fine-Tuning Unlearning in Large Language Models \
-Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). 
+Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). [[pdf] https://arxiv.org/abs/2410.06606]
 
 [15] Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales \
 Wenyu Li\#, Yinuo Zhu, Xin Lin, Ming Li, Ziyue Jiang, **Ziqian Zeng**\#. WWW 2024 (short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3589335.3651584)] [[code](https://github.com/w-y-li/MAIMS)]
@@ -110,8 +118,11 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 **Ziqian Zeng**, Yichun Yin, Yangqiu Song, and Ming Zhang. IJCAI, 2017. [[pdf](https://www.ijcai.org/proceedings/2017/0547.pdf)] [[code](https://github.com/ZiqianZENG/SocializedWordEmbeddings)]
 
 ## Journal
-[1] Efficient Point Cloud Video Recognition via Spatio-Temporal Pruning for MEC Based Consumer Applications \
+[2] Efficient Point Cloud Video Recognition via Spatio-Temporal Pruning for MEC Based Consumer Applications \
 Cen Chen, Songyu Xie, Jing Liu, Zhongyao Cheng, **Ziqian Zeng**, Huiping Zhuang, IEEE Transactions on Consumer Electronics, 2024. [[pdf](https://ieeexplore.ieee.org/abstract/document/10433077)]
+
+[1] ResDecode: Accelerating Large Language Models Inference via Residual Decoding Heads \
+Ziqian Zeng, Jiahong Yu, Qianshi Pang, Zihao Wang, Huiping Zhuang, Fan Yu, Hongen Shao, Xiaofeng Zou\#  [[pdf](https://www.sciopen.com/article/10.26599/BDMA.2024.9020074)]
 
 \* Equal Contribution \
 \# Correspondence Author
