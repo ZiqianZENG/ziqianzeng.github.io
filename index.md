@@ -19,6 +19,7 @@ Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zh
 [2] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
 Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, **Ziqian Zeng**, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
 
+
 [1] AIR: Analytic Imbalance Rectifier for Continual Learning \
 Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf](https://arxiv.org/pdf/2408.10349)]
 
@@ -68,7 +69,7 @@ Huiping Zhuang, Yizhu Chen, Di Fang, Run He, Kai Tong, Hongxin Wei, **Ziqian Zen
 Libo Zhao, Jing Li#, **Ziqian Zeng**#. EMNLP 2024. [[pdf](https://arxiv.org/abs/2410.04075)] [[code](https://github.com/lbzhao970/PsFuture)]
 
 [16] Dissecting Fine-Tuning Unlearning in Large Language Models \
-Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). [[pdf] https://arxiv.org/abs/2410.06606]
+Yihuai Hong, Yuelin Zou, Lijie Hu, **Ziqian Zeng**, Di Wang, Haiqin Yang. EMNLP 2024 (short). [[pdf](https://arxiv.org/abs/2410.06606)]
 
 [15] Zero-shot Explainable Mental Health Analysis on Social Media by Incorporating Mental Scales \
 Wenyu Li\#, Yinuo Zhu, Xin Lin, Ming Li, Ziyue Jiang, **Ziqian Zeng**\#. WWW 2024 (short). [[pdf](https://dl.acm.org/doi/abs/10.1145/3589335.3651584)] [[code](https://github.com/w-y-li/MAIMS)]
