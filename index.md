@@ -27,16 +27,16 @@ Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]
 ## Conference
 
 [29] Context Reasoner: Incentivizing Reasoning Capability for Contextualized Privacy and Safety Compliance via Reinforcement Learning \
-Wenbin Hu, Haoran Li, Huihao Jing, Qi Hu, **Ziqian Zeng**, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. EMNLP 2025. [[pdf]https://arxiv.org/abs/2505.14585]
+Wenbin Hu, Haoran Li, Huihao Jing, Qi Hu, **Ziqian Zeng**, Sirui Han, Heli Xu, Tianshu Chu, Peizhao Hu, Yangqiu Song. EMNLP 2025. [[pdf](https://arxiv.org/abs/2505.14585)]
 
 [28] RewardDS: Privacy-Preserving Fine-Tuning for Large Language Models via Reward Driven Data Synthesis \
-Jianwei Wang, Chengming Shi, Junyao Yang, Haoran Li, Qianli Ma, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. EMNLP 2025. [[pdf]https://arxiv.org/abs/2502.18517]
+Jianwei Wang, Chengming Shi, Junyao Yang, Haoran Li, Qianli Ma, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. EMNLP 2025. [[pdf](https://arxiv.org/abs/2502.18517)]
 
 [27] DrFrattn: Directly Learn Adaptive Policy from Attention for Simultaneous Machine Translation \
 Libo Zhao, Jing Li\#, **Ziqian Zeng**\#. EMNLP 2025. 
 
 [26] SEA: Low-Resource Safety Alignment for Multimodal Large Language Models via Synthetic Embeddings \
-Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. ACL 2025.[[pdf]](https://arxiv.org/abs/2502.12562)] [[code](https://github.com/ZeroNLP/SEA)]
+Weikai Lu, Hao Peng, Huiping Zhuang, Cen Chen, **Ziqian Zeng**\#. ACL 2025.[[pdf](https://arxiv.org/abs/2502.12562)] [[code](https://github.com/ZeroNLP/SEA)]
 
 [25] SDD: Self-Degraded Defense against Malicious Fine-tuning \
 ZiXuan Chen, Weikai Lu, Xin Lin, **Ziqian Zeng**\#. ACL 2025.[[pdf](https://aclanthology.org/2025.acl-long.1412/)] [[code](https://github.com/ZeroNLP/SDD)]
