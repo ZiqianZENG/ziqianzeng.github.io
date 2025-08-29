@@ -122,7 +122,7 @@ Rashidul Islam, Kamrun Naher Keya, **Ziqian Zeng**, Shimei Pan, and James Foulds
 Cen Chen, Songyu Xie, Jing Liu, Zhongyao Cheng, **Ziqian Zeng**, Huiping Zhuang, IEEE Transactions on Consumer Electronics, 2024. [[pdf](https://ieeexplore.ieee.org/abstract/document/10433077)]
 
 [1] ResDecode: Accelerating Large Language Models Inference via Residual Decoding Heads \
-Ziqian Zeng, Jiahong Yu, Qianshi Pang, Zihao Wang, Huiping Zhuang, Fan Yu, Hongen Shao, Xiaofeng Zou\#  [[pdf](https://www.sciopen.com/article/10.26599/BDMA.2024.9020074)]
+**Ziqian Zeng**, Jiahong Yu, Qianshi Pang, Zihao Wang, Huiping Zhuang, Fan Yu, Hongen Shao, Xiaofeng Zou\#  [[pdf](https://www.sciopen.com/article/10.26599/BDMA.2024.9020074)]
 
 \* Equal Contribution \
 \# Correspondence Author
