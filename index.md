@@ -28,9 +28,25 @@ Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]
 ## Conference
 
 **2026**
+ 
+[35] Activation-Guided Local Editing for Jailbreaking Attacks \
+Jiecong Wang, Haoran Li, Hao Peng, **Ziqian Zeng**#, Zihao Wang, Haohua Du, Zhengtao Yu. ACL 2026. 
 
-[30] RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior \
+[34] Preserving Language Capabilities in Vision-Language Models via Representation Regulation \
+ZiXuan Chen, Juncheng Tao, **Ziqian Zeng**#. ACL 2026. 
+
+[33] MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning \
+Tao Zhang, Ziqian Zeng, Hao Peng, Huiping Zhuang, Cen Chen. ACL 2026. [[pdf](https://arxiv.org/abs/2512.19206)]
+
+[32] ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior \
+Weikai Lu, **Ziqian Zeng**#, Kehua Zhang, Haoran Li, Huiping Zhuang, Ruidong Wang, Cen Chen, Hao Peng. CVPR 2026. [[pdf](https://arxiv.org/abs/2512.05745)] 
+
+[31] RCP-Merging: Merging Long Chain-of-Thought Models with Domain-Specific Models by Considering Reasoning Capability as Prior \
 Junyao Yang, Jianwei Wang, Huiping Zhuang, Cen Chen, **Ziqian Zeng**#. AAAI 2026. [[pdf](https://arxiv.org/abs/2508.03140)] [[code](https://github.com/ZeroNLP/RCP-Merging)]
+
+[30] Not Just Detection: Aligned-Driven Purification of Indirect Prompt Injection for Reliable Agent Interaction \
+Qingxin Xiao, Boyang Zhang, **Ziqian Zeng**, Zhengle Ding, Xin Cheng, Lingwei Dang, Jinhui Wu, Yangyang Zhao, Qingyao Wu, ICASSP 2026. 
+
 
 **2025**
 
