@@ -30,7 +30,7 @@ Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf]
 **2026**
  
 [35] Activation-Guided Local Editing for Jailbreaking Attacks \
-Jiecong Wang, Haoran Li, Hao Peng, **Ziqian Zeng**#, Zihao Wang, Haohua Du, Zhengtao Yu. ACL 2026. 
+Jiecong Wang, Haoran Li, Hao Peng, **Ziqian Zeng**, Zihao Wang, Haohua Du, Zhengtao Yu. ACL 2026. 
 
 [34] Preserving Language Capabilities in Vision-Language Models via Representation Regulation \
 ZiXuan Chen, Juncheng Tao, **Ziqian Zeng**#. ACL 2026. 
