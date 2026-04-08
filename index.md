@@ -36,7 +36,7 @@ Jiecong Wang, Haoran Li, Hao Peng, **Ziqian Zeng**#, Zihao Wang, Haohua Du, Zhen
 ZiXuan Chen, Juncheng Tao, **Ziqian Zeng**#. ACL 2026. 
 
 [33] MixKVQ: Query-Aware Mixed-Precision KV Cache Quantization for Long-Context Reasoning \
-Tao Zhang, Ziqian Zeng, Hao Peng, Huiping Zhuang, Cen Chen. ACL 2026. [[pdf](https://arxiv.org/abs/2512.19206)]
+Tao Zhang, **Ziqian Zeng**#, Hao Peng, Huiping Zhuang, Cen Chen. ACL 2026. [[pdf](https://arxiv.org/abs/2512.19206)]
 
 [32] ARGUS: Defending Against Multimodal Indirect Prompt Injection via Steering Instruction-Following Behavior \
 Weikai Lu, **Ziqian Zeng**#, Kehua Zhang, Haoran Li, Huiping Zhuang, Ruidong Wang, Cen Chen, Hao Peng. CVPR 2026. [[pdf](https://arxiv.org/abs/2512.05745)] 
