@@ -11,20 +11,6 @@ Ph.D. Department of Computer Science and Engineering, the Hong Kong University o
 B.Eng. School of Computer Science and Engineering, South China University of Technology, 2012 - 2016.
 
 
-## Preprint
-[3] Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge \
-Weikai Lu, **Ziqian Zeng**\#, Jianwei Wang, Zhengdong Lu, Zelin Chen, Huiping Zhuang, Cen Chen. [[pdf](https://arxiv.org/abs/2404.05880)]
-
-
-[2] Federated Domain-Specific Knowledge Transfer on Large Language Models Using Synthetic Data \
-Haoran Li, Xinyuan Zhao, Dadi Guo, Hanlin Gu, **Ziqian Zeng**, Yuxing Han, Yangqiu Song, Lixin Fan, Qiang Yang. [[pdf](https://arxiv.org/abs/2405.14212)]
-
-
-[1] AIR: Analytic Imbalance Rectifier for Continual Learning \
-Di Fang, Yinan Zhu, Runze Fang, Cen Chen, **Ziqian Zeng**, Huiping Zhuang [[pdf](https://arxiv.org/pdf/2408.10349)]
-
-
-
 ## Conference
 
 **2026**
@@ -46,7 +32,7 @@ Junyao Yang, Jianwei Wang, Huiping Zhuang, Cen Chen, **Ziqian Zeng**#. AAAI 2026
 
 [31] DeltaSight: Architecting Efficient Video AIoT Systems via
 Cross-Stage Consistent Redundancy Elimination \
-Qinyu Wang, Cen Chen, Jingkai Huang, Yawen Qiu, Hongen Shao, Xiaofeng Zou, **Ziqian Zeng**#. DAC 2026. 
+Qinyu Wang, Cen Chen, Jingkai Huang, Yawen Qiu, Hongen Shao, Xiaofeng Zou, **Ziqian Zeng**. DAC 2026. 
 
 
 [30] Not Just Detection: Aligned-Driven Purification of Indirect Prompt Injection for Reliable Agent Interaction \
